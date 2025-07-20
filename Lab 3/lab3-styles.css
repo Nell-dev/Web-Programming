@@ -1,0 +1,22 @@
+body{background-color: burlywood;
+font-family: Arial, sans-serif;}
+
+h1{text-align: center;
+color: brown; }
+
+p{color: seagreen;
+margin: 10px;}
+
+li{ color:yellow;}
+li::marker{ color:red; } 
+
+.styled-box{border: solid;
+background: lightgray;
+text-align: center;
+padding: 10px;}
+
+a{color: blue;
+margin-bottom: 20px;
+display: inline-block;}
+
+a:hover{text-decoration: none; }
